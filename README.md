@@ -1,2 +1,2 @@
-# LibreriaFinal
-Libreria con crud e impresion pdf, en codeigniter 4 y bootstrap 4
+# libreria
+ Crud, con login en codeigniter de una libreria
